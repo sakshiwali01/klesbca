@@ -1,0 +1,37 @@
+.z{
+    background-color: rgb(199, 121, 121);
+    align-content: center;
+    text-align: center;
+    border-radius: 5px;
+}
+header{
+    background-color: rgb(60, 121, 219);
+    height: 40px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.navigation{
+    background-color: rgb(224, 206, 105);
+   border-radius:5px;
+   height: 30px;
+   color: azure;
+   -ms-flex-align: center;
+   word-spacing: 10px;
+   width: 340px;
+   padding-left: 10%;
+  font-weight: bold;
+  padding-bottom: 10px;
+
+}
+.a,.b,.c{
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+.text{
+    align-items: center;
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    padding: 5px;
+    
+}

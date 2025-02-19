@@ -1,0 +1,36 @@
+.image1,.image2,.image3,.image4,.image5,.image6,.image7,.image11,.image12,.image13,.image14,.image15,.image16,.image17{
+    background-color: rgb(255, 255, 255);
+    align-items:center;
+    margin: auto;
+    text-align: center;
+   width: fit-content;
+   max-height: fit-content;
+   grid-area: auto;
+   justify-items: stretch;
+   margin: 10px;
+   border: white solid;
+   border-radius: 20px;
+   
+       
+}
+.a,.b,.c,.d,.e,.f{
+    background-color: rgb(202, 193, 193);
+    border: black;
+    grid-row:auto;
+    padding-right: 40px;
+}
+.open{
+margin-left: 90%;
+}
+
+
+input[type=text] {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px; 
+    resize: vertical;
+}
